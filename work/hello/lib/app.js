@@ -1,2 +1,1 @@
-alert();
-const foo = () => { console.log('Hello World and John!') }
+const foo = () => { return 'Hello World!' }
